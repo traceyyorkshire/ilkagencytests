@@ -1,0 +1,15 @@
+/*
+Theme Name: ILK demo theme
+Author: TJW
+Description: Demo theme for ilk wordpress
+Version: 1.0
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+    background-color: #f0f8ff;
+    font-family: Helvetica;
+}
